@@ -1,6 +1,6 @@
 # Histogram-of-an-images
-## NAME: Manoj M
-## REG NO: 212221240027
+## EXP : 3
+## DATE : 9 / 9 / 24
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
